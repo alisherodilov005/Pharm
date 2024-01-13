@@ -18,7 +18,7 @@
                                     class="fa-brands fa-facebook-f"></i></a>
                             <a class="tp-f-fb" href="https://t.me/DoraLine_company"><i
                                     class="fa-brands fa-telegram"></i></a>
-                            <a class="tp-f-fb" href="https://www.instagram.com/doraline_companyy"><i
+                            <a class="tp-f-fb" href="https://www.instagram.com/doraline_company"><i
                                     class="fa-brands fa-instagram"></i></a>
 
                         </div>
